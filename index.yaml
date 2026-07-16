@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aws:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-07-16T18:59:45.281419076Z"
+    description: A Helm chart for Kubernetes
+    digest: da4791b2676c67d1027f5653f9e9aece6c3b2d008109e347a64be508be77af82
+    name: aws
+    type: application
+    urls:
+    - aws-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-07-16T18:59:45.280847139Z"
